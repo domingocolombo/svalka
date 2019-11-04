@@ -1,0 +1,26 @@
+# Почему не работает?
+data_zero_age = data[ data['dob_years'] == 0]
+def replace_age(data):
+    for row in data:
+        if data['income_type'] == 'госслужащий':
+            if data['gender'] == 'F':
+                data['dob_years'] = 41
+            if data['gender'] == 'M':
+                data['dob_years'] = 37
+        if data['income_type'] == 'компаньон':
+            if data['gender'] == 'F':
+                data['dob_years'] = 40
+            if data['gender'] == 'M':
+                data['dob_years'] = 38
+        if data['income_type'] == 'пенсионер':
+            if data['gender'] == 'F':
+                data['dob_years'] = 60
+            if data['gender'] == 'M':
+                data['dob_years'] = 60
+        if data['income_type'] == 'сотрудник':
+            if data['gender'] == 'F':
+                data['dob_years'] = 40
+            if data['gender'] == 'M':
+                data['dob_years'] = 38
+replace_age(data_zero_age)
+data_zero_age
