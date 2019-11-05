@@ -24,3 +24,33 @@ def replace_age(data):
                 data['dob_years'] = 38
 replace_age(data_zero_age)
 data_zero_age
+
+
+
+#Работают, но добавляет новый столбец
+data2 = data
+
+def replace_age(income_type):
+    if
+    if income_type == 'госслужащий':
+        result = 40
+    elif income_type == 'компаньон':
+        result = 39
+    elif income_type == 'пенсионер':
+        result = 60
+    elif income_type == 'сотрудник':
+        result = 39
+    elif income_type == 'безработный':
+        result = 40
+    elif income_type == 'в декрете':
+        result = 39
+    elif income_type == 'предприниматель':
+        result = 60
+    elif income_type == 'студент':
+        result = 39
+    else:
+        result = 0
+    return result
+data2['dob_years2'] = data2['income_type'].apply(replace_age)
+
+data2
