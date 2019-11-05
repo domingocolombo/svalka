@@ -26,6 +26,33 @@ replace_age(data_zero_age)
 data_zero_age
 
 
+data_zero_age = data[ data['dob_years'] == 0]
+def replace_age(data):
+    if data['dob_years'] == 0:
+        if data['income_type'] == 'госслужащий':
+            if data['gender'] == 'F':
+                return 41
+            if data['gender'] == 'M':
+                return 37
+        if data['income_type'] == 'компаньон':
+            if data['gender'] == 'F':
+                return 40
+            if data['gender'] == 'M':
+                return 38
+        if data['income_type'] == 'пенсионер':
+            if data['gender'] == 'F':
+                return 60
+            if data['gender'] == 'M':
+                return 60
+        if data['income_type'] == 'сотрудник':
+            if data['gender'] == 'F':
+                return 40
+            if data['gender'] == 'M':
+                return 38
+data['newcat']=data['dob_years'].apply(replace_age)
+data_zero_age
+
+
 
 #Работают, но добавляет новый столбец
 data2 = data
