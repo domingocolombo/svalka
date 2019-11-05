@@ -81,3 +81,32 @@ def replace_age(income_type):
 data2['dob_years2'] = data2['income_type'].apply(replace_age)
 
 data2
+
+
+РАбочий код
+
+data_age_median = data.groupby('income_type')['dob_years'].median()
+
+data_pivot = data.pivot_table(index=['income_type'], values='dob_years', aggfunc='median') #Создаю библиотеку по income_type
+data_pivot = data_pivot.rename(columns={"dob_years":"dob_years_median"})
+
+data2 = data
+
+data2 = data2.merge(data_pivot, on='income_type', how='left')
+
+data2['dob_years_median'] = data2['dob_years_median'].astype('int')
+
+
+data2.loc[data2['dob_years'] == 0, 'dob_years'] = data2['dob_years_median']
+
+
+data2 = data2.loc[:, 'children': 'purpose']
+
+#data_zero_age = data2[ data2['dob_years'] == 0]
+
+data2.head(5)
+
+#data2['dob_years'].sort_values().unique()
+
+#print(data_zero_age.head())
+
