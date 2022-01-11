@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T09:57:43.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.4.727 Yowser/2.5 Safari/537.36" etag="9ZmEXENHCsh1p7hoIivi" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T10:02:49.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.4.727 Yowser/2.5 Safari/537.36" etag="-Nwr_rJXDQk7n0HBAfU_" version="14.8.3" type="github">
   <diagram id="fip61YtA39FPmT0I74cd" name="Page-1">
     <mxGraphModel dx="1673" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,35 +7,47 @@
         <mxCell id="PGoshOfJ4O63NJS_CjL8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=34;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-1" target="PGoshOfJ4O63NJS_CjL8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PGoshOfJ4O63NJS_CjL8-1" value="Дзен" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="300" height="80" as="geometry" />
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-1" value="Дзен" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=34;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-2" target="PGoshOfJ4O63NJS_CjL8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PGoshOfJ4O63NJS_CjL8-2" value="Директ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;" vertex="1" parent="1">
-          <mxGeometry x="40" y="160" width="300" height="80" as="geometry" />
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-2" value="Директ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=34;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-3" target="PGoshOfJ4O63NJS_CjL8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PGoshOfJ4O63NJS_CjL8-3" value="Другие источники" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;" vertex="1" parent="1">
-          <mxGeometry x="40" y="290" width="300" height="80" as="geometry" />
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-3" value="Другие источники" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=34;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-4" target="PGoshOfJ4O63NJS_CjL8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;startArrow=none;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-4" target="PGoshOfJ4O63NJS_CjL8-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-4" value="Показы&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;hr style=&quot;font-size: 14px&quot;&gt;&lt;table style=&quot;font-size: 14px&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;yandexuid&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;show_time&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Source&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;pid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;deviceid&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;id флайта&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;link (для тегов)&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;click_time&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="360" height="360" as="geometry" />
+          <mxGeometry x="200" y="210" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-5" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Если нет puid/deviceid - дополучить их&lt;br&gt;ИЛИ&lt;br&gt;получить на следующем шаге вместе с cryptaid&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="440" width="360" height="160" as="geometry" />
+          <mxGeometry x="200" width="360" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;startArrow=none;startFill=0;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-10" target="PGoshOfJ4O63NJS_CjL8-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-10" value="Метрика&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;hr style=&quot;font-size: 14px&quot;&gt;&lt;table style=&quot;font-size: 14px&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;yandexuid&lt;br&gt;&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;cryptaid&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;visit_time&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;pid&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;deviceid&lt;/font&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;покупки (только лего/лего + другие товары в заказе)&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;доход&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="225" width="430" height="360" as="geometry" />
+          <mxGeometry x="50" y="740" width="430" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="PGoshOfJ4O63NJS_CjL8-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Получаем cryptaid&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="827" y="290" width="263" height="80" as="geometry" />
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-11" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Получаем cryptaid&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="263" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=34;startArrow=classic;startFill=1;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-13" target="PGoshOfJ4O63NJS_CjL8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Тут ещё думаю, какие данные нам нужны из ЭК. Например:&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;ol style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Категории товаров, которые купили/смотрели/добавляли&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Товары, которые были в покупке (для возможного деления на товары лего и не лего)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;От этого также зависит, каких пользователей будем брать как контрольную группу&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1090" width="760" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
