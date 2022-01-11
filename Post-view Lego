@@ -1,14 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T10:02:49.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.4.727 Yowser/2.5 Safari/537.36" etag="-Nwr_rJXDQk7n0HBAfU_" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T10:32:21.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.85 YaBrowser/21.11.4.727 Yowser/2.5 Safari/537.36" etag="6xc_PmExVobFWPYx2fo9" version="14.8.3" type="github">
   <diagram id="fip61YtA39FPmT0I74cd" name="Page-1">
     <mxGraphModel dx="1673" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PGoshOfJ4O63NJS_CjL8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=34;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-1" target="PGoshOfJ4O63NJS_CjL8-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;startArrow=none;startFill=0;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="590" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-1" value="Дзен" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="620" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=34;" edge="1" parent="1" source="PGoshOfJ4O63NJS_CjL8-2" target="PGoshOfJ4O63NJS_CjL8-4">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +50,9 @@
         </mxCell>
         <mxCell id="PGoshOfJ4O63NJS_CjL8-13" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Тут ещё думаю, какие данные нам нужны из ЭК. Например:&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;ol style=&quot;font-size: 17px;&quot;&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Категории товаров, которые купили/смотрели/добавляли&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 17px;&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;Товары, которые были в покупке (для возможного деления на товары лего и не лего)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;div style=&quot;font-size: 17px;&quot;&gt;От этого также зависит, каких пользователей будем брать как контрольную группу&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="20" y="1090" width="760" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="PGoshOfJ4O63NJS_CjL8-17" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Просмотры страницы &lt;br&gt;/&lt;br&gt;&amp;nbsp;просмотр заголовка&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="23.5" y="445" width="153" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
